@@ -99,7 +99,7 @@
     "@types/express-session": "^1.19.0",
     "@types/http-errors": "^2.0.5",
     "@types/jest": "^30.0.0",
-    "@types/node": "^24.13.4",
+    "@types/node": "^24.13.5",
     "@types/nunjucks": "^3.2.6",
     "@types/passport": "^1.0.17",
     "@types/passport-oauth2": "^1.8.0",
